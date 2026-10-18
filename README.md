@@ -2,7 +2,7 @@
 
 ### A C programmer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4444ji&label=Profile views&color=0e75b6&style=flat" alt="4444ji" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=4444ji.4444ji&left_text=Profile%20views&left_color=0e75b6" alt="visitor badge"/> </p>
 
 - 🔭 I'm currently working on **a small C project**
 
